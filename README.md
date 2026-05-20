@@ -2,7 +2,7 @@
 
 A JWT-secured REST API for user authentication and persistent data storage, built to back the [Met Artwork Explorer](https://met-artwork-explorer-753i37e4f-rendells-projects.vercel.app/) application.
 
-> **Repo:** [renv39/users-api](https://github.com/renv39/users-api)
+> **Repo:** [met-artwork-explorer]([https://github.com/renv39/users-api](https://github.com/renv39/met-artwork-explorer))
 
 ---
 
